@@ -17,7 +17,7 @@ const Navbar = () => {
         />
         <p className=" text-[26px] pl-2 font-extrabold text-white max-sm:hidden">
           {" "}
-          Ｃｏｎｎｅｃｔｉｖｉｔｙ
+        Ｃｏｎｎｅｃｔｉｖｉｔｙ  
         </p>
       </Link>
       <div className="flex-between  gap-5 ">
